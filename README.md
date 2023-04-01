@@ -1,19 +1,12 @@
-<h1 align="center">Hi 👋, I'm Arshad Yaseen</h1>
-<h3 align="center">a passionate Full Stack Web Developer with a strong focus on Frontend development</h3>
+<h1 >Hi 👋, I'm Arshad Yaseen</h1>
+<h3 >a passionate Full Stack Web Developer with a strong focus on Frontend development</h3>
 
-- 🔭 I’m currently working on DocspireAI [Docspire AI](docspireai.com)
-
-- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [arshadd.site](arshadd.site)
 
 - 📝 I regularly write articles on [arshadd.site/writing](arshadd.site/writing)
 
 - 📫 How to reach me **hello@arshadd.site**
-
-- 📄 Know about my experiences [dub.sh/cv](dub.sh/cv)
-
-- ⚡ Fun fact **I think i'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +22,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/arshadyaseen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arshadyaseen" /></a><a href="https://ko-fi.com/arshad"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="arshad" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshad-yaseen&show_icons=true&locale=en&layout=compact" alt="arshad-yaseen" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshad-yaseen&show_icons=true&locale=en" alt="arshad-yaseen" /></p>
