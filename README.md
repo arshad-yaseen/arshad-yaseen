@@ -2,9 +2,9 @@
 <h3 >a passionate Full Stack Web Developer with a strong focus on Frontend development</h3>
 
 
-- 👨‍💻 All of my projects are available at [arshadd.site](arshadd.site)
+- 👨‍💻 All of my projects are available at [arshadd.site](https://arshadd.site)
 
-- 📝 I regularly write articles on [arshadd.site/writing](arshadd.site/writing)
+- 📝 I regularly write articles on [arshadd.site/writing](https://arshadd.site/writing)
 
 - 📫 How to reach me **hello@arshadd.site**
 
