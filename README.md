@@ -1,3 +1,3 @@
-[arshadd.site](https://www.arshadd.site/writing)
+writing [arshadd.site](https://www.arshadd.site)
 
 reach me **hello@arshadd.site**
