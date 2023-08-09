@@ -1,1 +1,1 @@
-writings [arshadd.site](https://www.arshadd.site)
+writings [arshcn.com](https://www.arshadd.site)
