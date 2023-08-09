@@ -1,1 +1,1 @@
-writings [arshcn.com](https://www.arshcn.com)
+writings [arshadyaseen.com](https://www.arshadyaseen.com)
