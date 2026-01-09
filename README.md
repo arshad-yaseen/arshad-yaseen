@@ -1,1 +1,1 @@
-[arshadyaseen.com](https://www.arshadyaseen.com)
+[arshad.fyi](https://www.arshad.fyi)
