@@ -1,4 +1,4 @@
-[website](https://www.arshad.fyi) | [ui](https://www.arshad.fyi/ui)
+[website](https://www.arshad.fyi) | [arshad/ui](https://www.arshad.fyi/ui)
 
 #### Writings
 
