@@ -2,4 +2,4 @@
 
 #### Writings
 
-- [Engineering High-Performance Parsers with Data-Oriented Design](https://www.arshad.fyi/writings/engineering-high-performance-parsers)
+- [Data-Oriented Design in Yuku's Parser](https://www.arshad.fyi/writings/data-oriented-design-in-yukus-parser)
