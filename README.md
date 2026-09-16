@@ -3,3 +3,4 @@
 #### Writings
 
 - [Data-Oriented Design in Yuku's Parser](https://www.arshad.fyi/writings/data-oriented-design-in-yukus-parser)
+- [Absence, Failure and Choice Are One Type](https://www.arshad.fyi/writings/data-oriented-design-in-yukus-parser)
